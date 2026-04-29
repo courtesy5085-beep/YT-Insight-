@@ -1,0 +1,13 @@
+streamlit
+google-api-python-client
+pandas
+numpy
+matplotlib
+wordcloud
+scikit-learn
+nltk
+textblob
+openai
+python-dotenv
+fpdf
+yt-dlp
