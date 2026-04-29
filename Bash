@@ -1,0 +1,17 @@
+yt-insight-pro-streamlit/
+├── app.py                    # Main Streamlit app
+├── requirements.txt
+├── .env.example
+├── utils/
+│   ├── youtube_api.py
+│   ├── comments.py
+│   ├── sentiment.py
+│   ├── nlp.py
+│   ├── openai_utils.py
+│   ├── pdf_generator.py
+│   └── cache.py
+├── assets/
+│   └── styles.css
+├── reports/                 # Generated PDFs
+├── README.md
+├── Dockerfile
